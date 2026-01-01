@@ -2,7 +2,7 @@
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
-<img alt="" src="https://assets.leetcode.com/uploads/2021/03/14/invert1-tree.jpg" style="width: 277px; height: 302px;" />
+<img alt="" src="https://assets.leetcode.com/uploads/2021/03/14/invert1-tree.jpg" style="width: 911px; height: 301px;" />
 
 <pre>
 <strong>Input:</strong> root = [4,2,7,1,3,6,9]
@@ -10,7 +10,7 @@
 </pre>
 
 <p><strong class="example">Example 2:</strong></p>
-<img alt="" src="https://assets.leetcode.com/uploads/2021/03/14/invert2-tree.jpg" style="width: 277px; height: 302px;" />
+<img alt="" src="https://assets.leetcode.com/uploads/2021/03/14/invert2-tree.jpg" style="width: 761px; height: 182px;" />
 
 <pre>
 <strong>Input:</strong> root = [2,1,3]
