@@ -7,6 +7,7 @@ A cohesive mind map of leetcode problems to help me with technical interview pre
 
 ## Tree
 | ------- |
+| |
 | [0226-invert-binary-tree](https://github.com/adiakbhargava/leetcode-bharg/tree/main/Trees/0226-invert-binary-tree) |
 |  |
 |  |
