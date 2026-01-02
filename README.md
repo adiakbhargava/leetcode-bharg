@@ -13,5 +13,14 @@ A cohesive mind map of leetcode problems to help me with technical interview pre
 | [0199-binary-tree-right-side-view](https://github.com/adiakbhargava/leetcode-bharg/tree/main/Trees/0199-binary-tree-right-side-view) |
 | [0662-maximum-width-of-binary-tree](https://github.com/adiakbhargava/leetcode-bharg/tree/main/Trees/0662-maximum-width-of-binary-tree)|
 | [0098-validate-binary-search-tree](https://github.com/adiakbhargava/leetcode-bharg/tree/main/Trees/0098-validate-binary-search-tree)|
+| [0236-lowest-common-ancestor-of-binary-tree](https://github.com/adiakbhargava/leetcode-bharg/tree/main/Trees/0236-lowest-common-ancestor-of-binary-tree)|
+| |
+| |
+| |
+| |
+| |
+| |
+| |
+| |
 | |
 <!---LeetCode Topics End-->
