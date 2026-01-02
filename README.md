@@ -16,7 +16,7 @@ A cohesive mind map of leetcode problems to help me with technical interview pre
 | [0236-lowest-common-ancestor-of-binary-tree](https://github.com/adiakbhargava/leetcode-bharg/tree/main/Trees/0236-lowest-common-ancestor-of-binary-tree)|
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/adiakbhargava/leetcode-bharg/tree/main/Trees/0105-construct-binary-tree-from-preorder-and-inorder-traversal)|
 |[0124-binary-tree-maximum-path-sum](https://github.com/adiakbhargava/leetcode-bharg/tree/main/Trees/0124-binary-tree-maximum-path-sum) |
-|[0101-symmetric-tree] |
+|[0101-symmetric-tree](https://github.com/adiakbhargava/leetcode-bharg/tree/main/Trees/0101-symmetric-tree) |
 | |
 | |
 | |
