@@ -15,7 +15,7 @@
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
-<img alt="" src="https://assets.leetcode.com/uploads/2019/11/04/133_clone_graph_question.png" style="width: 2008px; height: 2210px;" />
+<img alt="" src="https://assets.leetcode.com/uploads/2019/11/04/133_clone_graph_question.png" style="width: 2210px; height: 2008px;" />
 
 <pre>
 <strong>Input:</strong> adjList = [[2,4],[1,3],[2,4],[1,3]]
