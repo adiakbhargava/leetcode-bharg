@@ -11,7 +11,7 @@
 
 <p><strong>An adjacency list</strong> is a collection of unordered <strong>lists</strong> used to represent a finite grpah.  Each list describes the set of neighbors of a node in the graph.</p>
 
-<p>The given ndoe will always be the first node with <code>val = 1</code>.  You must return the <strong>copy of the given node</strong> as a reference to the cloned graph.
+<p>The given node will always be the first node with <code>val = 1</code>.  You must return the <strong>copy of the given node</strong> as a reference to the cloned graph.
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
