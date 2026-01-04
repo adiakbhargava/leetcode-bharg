@@ -24,4 +24,5 @@ A cohesive mind map of leetcode problems to help me with technical interview pre
 | ------- |
 |[0207-course-schedule](https://github.com/adiakbhargava/leetcode-bharg/tree/main/Graphs/0207-course-schedule) |
 |[0133-clone-graph](https://github.com/adiakbhargava/leetcode-bharg/tree/main/Graphs/0133-clone-graph)|
+|[0200-number-of-islands](https://github.com/adiakbhargava/leetcode-bharg/tree/main/Graphs/0200-number-of-islands)|
 <!---LeetCode Topics End-->
