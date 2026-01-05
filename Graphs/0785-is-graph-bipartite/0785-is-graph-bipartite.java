@@ -3,7 +3,7 @@ class Solution {
         int[] nodeColors = new int[graph.length];
 
         for(int i = 0; i < graph.length; i++){
-            if(colors[i] == 0 && !dfs(i, 1, graph, nodeColors)){
+            if(nodeColors[i] == 0 && !dfs(i, 1, graph, nodeColors)){
                 return false;
             }
         }
