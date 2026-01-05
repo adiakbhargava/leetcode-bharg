@@ -4,7 +4,7 @@
 
 <ul>
     <li><code>0</code> represnting an empty cell,</li>
-    <li><code>1</code> representing a fresh orange, or</li>
+    <li><code>1</code> representing a fresh orange</li>
     <li><code>2</code> representing a rotten orange</li>
 </ul>
 
