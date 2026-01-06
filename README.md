@@ -1,9 +1,9 @@
 # Leetcode
 
-A cohesive mind map of leetcode problems to help me with technical interview prep.
+A cohesive mind map of leetcode + bytebytego problems to help me with technical interview prep.
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
+<!---Topics Start-->
+# Topics
 
 ## Tree
 |  |
@@ -28,4 +28,5 @@ A cohesive mind map of leetcode problems to help me with technical interview pre
 |[0994-rotting-oranges](https://github.com/adiakbhargava/leetcode-bharg/tree/main/Graphs/0994-rotting-oranges)|
 |[0785-is-graph-bipartite](https://github.com/adiakbhargava/leetcode-bharg/tree/main/Graphs/0785-is-graph-bipartite)|
 |[1584-min-cost-to-connect-all-points](https://github.com/adiakbhargava/leetcode-bharg/tree/main/Graphs/1584-min-cost-to-connect-all-points)|
+|[bbg-merging-communities](https://github.com/adiakbhargava/leetcode-bharg/tree/main/Graphs/bbg-merging-communities)|
 <!---LeetCode Topics End-->
