@@ -11,7 +11,7 @@
 
 <p>&nbsp;</p>
 <p><strong class="example">Example:</strong></p>
-<img alt="" src="https://bytebytego.com/images/exercises/coding-patterns/graphs/merging-communities/merging-communities-4AA4FKUZ.svg" style="width: 214px; height: 268px;" />
+<img alt="" src="https://bytebytego.com/images/exercises/coding-patterns/graphs/merging-communities/merging-communities-4AA4FKUZ.svg" style="width: 514px; height: 568px;" />
 
 <pre>
 <strong>Input:</strong> n = 5, 
