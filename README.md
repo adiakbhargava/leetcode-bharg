@@ -32,4 +32,5 @@ A cohesive mind map of leetcode + bytebytego problems to help me with technical 
 |[0721-accounts-merge](https://github.com/adiakbhargava/leetcode-bharg/tree/main/Graphs/0721-accounts-merge)|
 |[0210-course-schedule-ii](https://github.com/adiakbhargava/leetcode-bharg/tree/main/Graphs/0210-course-schedule-ii)|
 |[0695-max-area-island](https://github.com/adiakbhargava/leetcode-bharg/tree/main/Graphs/0695-max-area-island)|
+|[0329-longest-increasing-path](https://github.com/adiakbhargava/leetcode-bharg/tree/main/Graphs/0329-longest-increasing-path-in-a-matrix)|
 <!---LeetCode Topics End-->
