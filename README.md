@@ -31,4 +31,5 @@ A cohesive mind map of leetcode + bytebytego problems to help me with technical 
 |[bbg-merging-communities](https://github.com/adiakbhargava/leetcode-bharg/tree/main/Graphs/bbg-merging-communities)|
 |[0721-accounts-merge](https://github.com/adiakbhargava/leetcode-bharg/tree/main/Graphs/0721-accounts-merge)|
 |[0210-course-schedule-ii](https://github.com/adiakbhargava/leetcode-bharg/tree/main/Graphs/0210-course-schedule-ii)|
+|[0695-max-area-island](https://github.com/adiakbhargava/leetcode-bharg/tree/main/Graphs/0695-max-area-island)|
 <!---LeetCode Topics End-->
