@@ -1,4 +1,4 @@
-# Leetcode
+# Problems
 
 A cohesive mind map of leetcode + bytebytego problems to help me with technical interview prep.
 
