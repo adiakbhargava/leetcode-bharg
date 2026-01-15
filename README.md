@@ -44,11 +44,11 @@ A cohesive mind map of leetcode + bytebytego problems to help me with technical 
 |  |
 | ------- |
 |[0063-unique-paths-ii](https://github.com/adiakbhargava/leetcode-bharg/tree/main/DP/0063-unique-paths-ii)|
-|[0062-unique-paths]()|
+|[0062-unique-paths](https://github.com/adiakbhargava/leetcode-bharg/tree/main/DP/0062-unique-paths)|
 
 ## Miscellaneous
 |  |
 | ------- |
-|[0289-game-of-life]|
+|[0289-game-of-life](https://github.com/adiakbhargava/leetcode-bharg/tree/main/Miscellaneous/0289-game-of-life)|
 
 <!---LeetCode Topics End-->
