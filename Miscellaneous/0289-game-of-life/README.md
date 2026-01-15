@@ -1,0 +1,50 @@
+<h2><a href="https://leetcode.com/problems/game-of-life/">289. Game of Life</a></h2><h3>Medium</h3><hr><p>According to Wikipedia's article: "The <strong>Game of Life</strong>, also known simply as <strong>Life</strong>, is a cellular automaton devices by the British mathematicican John Horton Conway in 1970."</p>
+
+<p>The board is made up of an <code>m x n</code> grid of cells, where each cell has an initial state: <strong>live</strong> (represented by a <code>1</code>) or <strong>dead</strong> (represented by a <code>0</code>).  Each cell interacts with its eight neighbors (horizontal, vertical, diagonal) using the following four rules (taken from teh above Wikipedia article):</p>
+
+<ol>
+    <li>Any live cell with fewer than two live neighbors dies as if caused by under-population.</li>
+    <li>Any live cell with two or three live neighbors lives on to the next generation.</li>
+    <li>Any live cell with more than three living neighbors dies, as if by over-population.</li>
+    <li>Any dead cell with exactly three live neighbors becomes a live cell, as if by reproduction.</li>
+</ol>
+
+<p>The next state of the board is determined by applying the above rules simultaneously to every cell in the current state of the <code>m x n</code> grid <code>board</code>.  In this process, births and deaths occur <strong>simultaneously</strong>.</p>
+
+<p>Given the current state of the <code>board</code>, <strong>update</strong> the <code>board</code> to reflect its next state.</p>
+
+<p><strong>Note</strong> that you do not need to return anything.</p>
+
+<p>&nbsp;</p>
+<p><strong class="example">Example 1:</strong></p>
+<img alt="" src="https://assets.leetcode.com/uploads/2020/12/26/grid1.jpg" style="width: 562px; height: 322px;" />
+
+<pre>
+<strong>Input:</strong> board = [[0,1,0],[0,0,1],[1,1,1],[0,0,0]]
+<strong>Output:</strong> [[0,0,0],[1,0,1],[0,1,1],[0,1,0]]
+</pre>
+
+<p><strong class="example">Example 2:</strong></p>
+<img alt="" src="https://assets.leetcode.com/uploads/2020/12/26/grid2.jpg" style="width: 402px; height: 162px;" />
+
+<pre>
+<strong>Input:</strong> board = [[1,1],[1,0]]
+<strong>Output:</strong> [[1,1],[1,1]]
+</pre>
+
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
+
+<ul>
+	<li><code>m == board.length</code></li>
+    <li><code>n == board[i].length</code></li>
+    <li><code>1 <= m, n <= 25</code></li>
+    <li>board[i][j] is <code>0</code> or <code>1</code>.</li>
+</ul>
+
+<p><strong>Follow up:</strong></p>
+
+<ul>
+    <li>Could you solve it in-place? Remember that the baord needs to be updated simultaneously: You cannot update some cells first and then use their updated values to update other cells.</li>
+    <li>In this question, we represent the board using a 2D array.  In principle, the board is infinite, which would cause problems when teh active area encroaches upon the border of the array (i.e., live cells reach the border).  How would you address these problems?</li>
+</ul>
