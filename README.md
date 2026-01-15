@@ -34,4 +34,14 @@ A cohesive mind map of leetcode + bytebytego problems to help me with technical 
 |[0695-max-area-island](https://github.com/adiakbhargava/leetcode-bharg/tree/main/Graphs/0695-max-area-island)|
 |[0329-longest-increasing-path](https://github.com/adiakbhargava/leetcode-bharg/tree/main/Graphs/0329-longest-increasing-path-in-a-matrix)|
 |[0127-word-ladder](https://github.com/adiakbhargava/leetcode-bharg/tree/main/Graphs/0127-word-ladder)|
+
+## Greedy
+|  |
+| ------- |
+||
+
+## Dynamic Programming
+|  |
+| ------- |
+|[0063-unique-paths-ii](https://github.com/adiakbhargava/leetcode-bharg/tree/main/DP/0063-unique-paths-ii)|
 <!---LeetCode Topics End-->
