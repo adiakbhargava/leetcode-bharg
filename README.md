@@ -45,7 +45,9 @@ A cohesive mind map of leetcode + bytebytego problems to help me with technical 
 | ------- |
 |[0063-unique-paths-ii](https://github.com/adiakbhargava/leetcode-bharg/tree/main/DP/0063-unique-paths-ii)|
 |[0062-unique-paths](https://github.com/adiakbhargava/leetcode-bharg/tree/main/DP/0062-unique-paths)|
-
+|[0213-house-robber-ii](https://github.com/adiakbhargava/leetcode-bharg/tree/main/DP/0213-house-robber-ii)|
+|[0198-house-robber](https://github.com/adiakbhargava/leetcode-bharg/tree/main/DP/0198-house-robber)|
+|[0300-longest-increasing-subsequence](https://github.com/adiakbhargava/leetcode-bharg/tree/main/DP/0300-longest-increasing-subsequence)|
 ## Miscellaneous
 |  |
 | ------- |
