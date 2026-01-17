@@ -48,7 +48,7 @@ A cohesive mind map of leetcode + bytebytego problems to help me with technical 
 |[0213-house-robber-ii](https://github.com/adiakbhargava/leetcode-bharg/tree/main/DP/0213-house-robber-ii)|
 |[0198-house-robber](https://github.com/adiakbhargava/leetcode-bharg/tree/main/DP/0198-house-robber)|
 |[0300-longest-increasing-subsequence](https://github.com/adiakbhargava/leetcode-bharg/tree/main/DP/0300-longest-increasing-subsequence)|
-## Miscellaneous
+## Simulation
 |  |
 | ------- |
 |[0289-game-of-life](https://github.com/adiakbhargava/leetcode-bharg/tree/main/Miscellaneous/0289-game-of-life)|
