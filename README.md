@@ -38,7 +38,11 @@ A cohesive mind map of leetcode + bytebytego problems to help me with technical 
 ## Greedy
 |  |
 | ------- |
-||
+|[0045-jump-game-ii](https://github.com/adiakbhargava/leetcode-bharg/tree/main/Greedy/0045-jump-game-ii)|
+|[0055-jump-game](https://github.com/adiakbhargava/leetcode-bharg/tree/main/Greedy/0055-jump-game)|
+|[0053-maximum-subarray](https://github.com/adiakbhargava/leetcode-bharg/tree/main/Greedy)|
+|[0134-gas-station](https://github.com/adiakbhargava/leetcode-bharg/tree/main/Greedy/0134-gas-station)|
+|[0678-valid-paranthesis-string](https://github.com/adiakbhargava/leetcode-bharg/tree/main/Greedy/0678-valid-paranthesis-string)|
 
 ## Dynamic Programming
 |  |
